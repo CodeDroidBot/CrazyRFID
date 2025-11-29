@@ -11,6 +11,7 @@ A comprehensive hardware hacking suite for RFID/NFC analysis, emulation, and pen
 1. read tag
 2. clone tag (in devlopment)
 3. dump tag
+4. Jam Reader
    and many more ...
 
 ## 🧱 Component Stack
